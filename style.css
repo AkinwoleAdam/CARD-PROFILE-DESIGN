@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
- background-image:url(/images/bg-pattern-top.svg),url(/images/bg-pattern-bottom.svg);
+ background-image:url(bg-pattern-top.svg),url(bg-pattern-bottom.svg);
  min-height: 100vh;
  background-color:hsl(185, 75%, 39%);
  background-position:right 48vw bottom 40vh,left 45vw top 44vh;
